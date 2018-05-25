@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background: #F5F5F5;
+}
+
+header {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #F0F8FF;
+    background: rgb(241, 3, 3);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+label {
+    text-align: right;
+}
+
+body {
+    text-align: left;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h3 {
+    text-align: center; height: 80%;
+    border: black;
+    
+    }
